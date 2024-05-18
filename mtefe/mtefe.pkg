@@ -1,5 +1,12 @@
-d 'DEA': Data envelopment analysis
+d 'mtefe': marginal treatment effects estimation with fixed effects for (Use) mtefe With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f locpoly3.ado
+f locpoly3.sthlp
+f mtefe.ado
+f mtefe.sthlp
+f mtefe.xlsx
+f mtefe_gendata.ado
+f mtefe_movestay_lf2.ado
+f mtefe_secondstage.ado
+f mtefeplot.ado
+f mtefeplot.sthlp
